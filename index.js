@@ -12,7 +12,7 @@ var apples = 5;
 
 // question 4
 
-var division = 20/5;
+var division = 20 / 5;
 
 // question 5
 
